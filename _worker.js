@@ -17,9 +17,9 @@ let addressesapi = [
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
-	'www.visa.com.sg',
-	'www.wto.org:8080',
-	'www.who.int:8880',
+	'www.visa.com.sg#CF',
+	'www.wto.org:8080#CF',
+	'www.who.int:8880#CF',
 ];
 
 // 设置优选noTLS地址api接口
